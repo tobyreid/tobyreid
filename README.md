@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Toby and i'm a software developer.
+My name is [Toby](https://tobyreid.github.io) and i'm a software developer.
 
 I've hacked away at the codeface professionally since 2004, and for fun since 1998 (this might be the other way around!)
 
