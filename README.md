@@ -2,9 +2,9 @@
 
 My name is Toby and i'm a software developer.
 
-I've been busy hacking away at the codeface professionally since 2004, and for fun since 1998 (this might be the other way around!)
+I've hacked away at the codeface professionally since 2004, and for fun since 1998 (this might be the other way around!)
 
-ex Friends Reunited, Brightsolid, NCC Group and TruRating
+Alumnus of Friends Reunited, Brightsolid, NCC Group and TruRating
 
 <!--
 **tobyreid/tobyreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
