@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Toby!
+
+I'm a professional software developer, and have been busy hacking away at the codeface since 2004.
+
 <!--
 **tobyreid/tobyreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
