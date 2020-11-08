@@ -4,7 +4,7 @@ My name is [Toby](https://tobyreid.github.io) and i'm a software developer.
 
 I've hacked away at the codeface professionally since 2004, and for fun since 1998 (this might be the other way around!)
 
-Alumnus of Friends Reunited (No github, sorry), [Brightsolid](https://github.com/brightsolid), [NCC Group](https://github.com/nccgroup), [TruRating](https://github.com/trurating) and [Croud](https://github.com/croudtech)
+Alumnus of Friends Reunited (No github, sorry), [Brightsolid](https://github.com/brightsolid), [NCC Group](https://github.com/nccgroup), [TruRating](https://github.com/trurating),  [Croud](https://github.com/croudtech) and [LineTen](https://github.com/lineten)
 
 <!--
 **tobyreid/tobyreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
