@@ -4,6 +4,12 @@ My name is [Toby](https://tobyreid.github.io) and i'm a software developer, ex-C
 
 I've hacked away at the codeface professionally since 2004, and for fun since 1998 (this might be the other way around!)
 
+C# is my favourite hammer, but I'm converse in many other langauges including JavaScript, Java, Python, Visual Basic (.NET and 6) and many others....
+
+I'm a huge fan of .NET Core, Docker, NuxtJS, VueJS etc.
+
+I also get a thrill of making new tech work with old tech 😊
+
 Alumnus of Friends Reunited (No github, sorry), [Brightsolid](https://github.com/brightsolid), [NCC Group](https://github.com/nccgroup), [TruRating](https://github.com/trurating),  [Croud](https://github.com/croudtech) and [LineTen](https://github.com/lineten)
 
 <!--
