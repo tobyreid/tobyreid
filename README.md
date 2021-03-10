@@ -8,7 +8,7 @@ C# is my favourite hammer, but I'm converse in many other langauges including Ja
 
 I also get a thrill of making new tech work with old tech 😊
 
-Alumnus of Friends Reunited (No github, sorry), [Brightsolid](https://github.com/brightsolid), [NCC Group](https://github.com/nccgroup), [TruRating](https://github.com/trurating),  [Croud](https://github.com/croudtech) and [LineTen](https://github.com/lineten)
+Alumnus of Friends Reunited (No github, sorry), [Brightsolid](https://github.com/brightsolid), [NCC Group](https://github.com/nccgroup), [TruRating](https://github.com/trurating),  [Croud](https://github.com/croudtech) and [LineTen](https://github.com/lineten
 
 <!--
 **tobyreid/tobyreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Ask me about: anything!
-- 📫 How to reach me: [@tobymcreid](https://twitter.com/tobymcreid)
+- 📫 How to reach me: [@tobymcreid](https://twitter.com/tobymcreid) or via [linkedin](https://www.linkedin.com/in/tobymcreid/) - don't let your dreams be dreams
 
 Public Key
 
