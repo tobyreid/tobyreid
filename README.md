@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Ask me about: anything!
-- 📫 How to reach me: [@tobymcreid](https://twitter.com/tobymcreid) or via [linkedin](https://www.linkedin.com/in/tobymcreid/) - don't let your dreams be dreams
+- 📫 How to reach me: [@tobymcreid](https://twitter.com/tobymcreid) or via [linkedin](https://www.linkedin.com/in/tobymcreid/) - don't let your dreams be dreams!
 
 Public Key
 
