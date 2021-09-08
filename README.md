@@ -6,7 +6,7 @@ I've chipped away at the codeface professionally since 2004, and for fun since 1
 
 C# is my favourite hammer, but I'm converse in many other langauges including JavaScript, Java, Python, Visual Basic (.NET and 6) and many others....  I'm obviously a huge fan of .NET Core, Docker, NuxtJS, VueJS etc.
 
-I also get a thrill of making new tech work with old tech 😊
+I'm also excited by making new tech work with old tech 😊
 
 Alumnus of Friends Reunited (No github, sorry), [Brightsolid](https://github.com/brightsolid), [NCC Group](https://github.com/nccgroup), [TruRating](https://github.com/trurating),  [Croud](https://github.com/croudtech) and [LineTen](https://github.com/lineten
 
