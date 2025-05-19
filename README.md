@@ -4,7 +4,7 @@ My name is [Toby](https://tobyreid.github.io) and i'm a software developer, ~~ex
 
 I've chipped away at the codeface professionally since 2004, and for fun since 1998 (this might be the other way around!)
 
-C# is my favourite hammer, but I'm converse in many other langauges including JavaScript, Java, Python, Visual Basic (.NET and 6) and many others....  I'm obviously a huge fan of .NET Core, Docker, NuxtJS, VueJS etc.
+C# is my favourite hammer, but I'm converse in many other langauges including TypeScript, JavaScript, Java, Python, Visual Basic (.NET and 6) and many others....  I'm obviously a huge fan of .NET Core, Docker, NuxtJS, VueJS etc.
 
 I'm also excited by making new tech work with old tech 😊
 
