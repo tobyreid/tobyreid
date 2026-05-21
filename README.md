@@ -17,7 +17,7 @@ Friends Reunited (no GitHub, sorry!), [Brightsolid](https://github.com/brightsol
 
 ### 📫 Let's Connect
 - **Ask me about:** C# architecture, integrating AI into existing platforms, home lab setups, or the golden era of dial-up.
-- **Reach me:** [@tobymcreid](https://x.com/tobymcreid) or via [LinkedIn](https://www.linkedin.com/in/tobymcreid/) — don't let your dreams be dreams! DO-IT 🦾
+- **Reach me:** [@tobymcreid](https://x.com/tobymcreid) or via [LinkedIn](https://www.linkedin.com/in/tobymcreid/) - don't let your dreams be dreams! DO-IT 🦾
 
 ### Public Key
 
