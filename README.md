@@ -1,34 +1,25 @@
-### Hello 🖖
+My name is [Toby](https://tobyreid.github.io) and I'm the CTO at [TruRating](https://github.com/trurating), a software developer at heart, ex-Wildcat! BBS sysop, and all-around good guy 😄. 
 
-My name is [Toby](https://tobyreid.github.io) and i'm a software developer, ~~ex-~~ CTO, ex-Wildcat! BBS sysop and all round good guy 😄
+I've chipped away at the codeface professionally since 2004, and for fun since 1998 (this might be the other way around!). I bring a bit of bloody-minded determination to solving complex architectural problems, and I'm especially excited by making new tech work with old tech. 
 
-I've chipped away at the codeface professionally since 2004, and for fun since 1998 (this might be the other way around!)
+### 🛠️ The Toolbox
+* **My favorite hammer:** C# and .NET.
+* **Fluent in:** TypeScript, JavaScript, Java, Python, and Visual Basic (both .NET and classic 6).
+* **Frontend:** Vue.js and NuxtJS.
+* **Infrastructure & Cloud:** Docker, Terraform and Azure cloud services.
 
-C# is my favourite hammer, but I'm converse in many other langauges including TypeScript, JavaScript, Java, Python, Visual Basic (.NET and 6) and many others....  I'm obviously a huge fan of .NET Core, Docker, NuxtJS, VueJS etc.
+### 🔭 Currently...
+* **Exploring:** LLM orchestration, agentic AI workflows, and rolling out modern AI tooling.
+* **Tinkering with:** Advanced home network topology (UniFi), 3D printing, and keeping classic metal (like old Minis) on the road. 
 
-I'm also excited by making new tech work with old tech 😊
+### 🏢 Alumnus Of
+Friends Reunited (no GitHub, sorry!), [Brightsolid](https://github.com/brightsolid), [NCC Group](https://github.com/nccgroup), [Croud](https://github.com/croudtech), [LineTen](https://github.com/lineten)
 
-Alumnus of Friends Reunited (No github, sorry), [Brightsolid](https://github.com/brightsolid), [NCC Group](https://github.com/nccgroup), [Croud](https://github.com/croudtech), [LineTen](https://github.com/lineten) and [TruRating](https://github.com/trurating)
+### 📫 Let's Connect
+- **Ask me about:** C# architecture, integrating AI into existing platforms, home lab setups, or the golden era of dial-up.
+- **Reach me:** [@tobymcreid](https://x.com/tobymcreid) or via [LinkedIn](https://www.linkedin.com/in/tobymcreid/) — don't let your dreams be dreams! DO-IT 🦾
 
-<!--
-**tobyreid/tobyreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 💬 Ask me about: anything!
-- 📫 How to reach me: [@tobymcreid](https://x.com/tobymcreid) or via [linkedin](https://www.linkedin.com/in/tobymcreid/) - don't let your dreams be dreams! 🦾
-
-Public Key
+### Public Key
 
 3082010A0282010100CF5230A5678962280D288455037063A3E0609A5DA96A77E41946503E2AB188740B9B60B13F1094FA60A5C21CE42E3A82C9EBBEB6663A68C9E64A51C0FD8183D704EB883F83E55FB22BADC76E9F269379EF7772926A8DE4F69E820162339CDF79721B3CC4D6B8FF7914E7AE42886ADB2529F96AC7787279C7A7E5ADBF2C049316B51C9DBC1458493A840227B71703C6ADF5BCFFD82629AE84622D2AE8C31FCBD5FD4008BF02CC33274F8428451A95E9826E0387BA655478C1A62E546D1E448CF9F5744B234DF0A5A0547F805A8DBE5CA563A409DC0DF61F3D5BE67BBD3FBB9FD96792E207DBDBED74E06A87695F8E7EE2DAD3D2A2A43F53039BCB014B9C3ECC0F0203010001
 
