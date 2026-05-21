@@ -1,6 +1,6 @@
 My name is [Toby](https://tobyreid.github.io) and I'm the CTO at [TruRating](https://github.com/trurating), a software developer at heart, ex-Wildcat! BBS sysop, and all-around good guy 😄. 
 
-I've chipped away at the codeface professionally since 2004, and for fun since 1998 (this might be the other way around!). I bring a bit of bloody-minded determination to solving complex architectural problems, and I'm especially excited by making new tech work with old tech. 
+I've chipped away at the codeface professionally since 2004, and for fun since 1998 (this might be the other way around!). I bring a bit of bloody-minded determination to solving complex architectural problems, and I'm especially excited by making new tech work with old tech.  I cut my professional teeth at Friends Reunited back when "social network" wasn't yet a phrase anyone said out loud.
 
 ### 🛠️ The Toolbox
 * **My favorite hammer:** C# and .NET.
@@ -13,10 +13,10 @@ I've chipped away at the codeface professionally since 2004, and for fun since 1
 * **Tinkering with:** Advanced home network topology (UniFi), 3D printing, and keeping classic metal (like old Minis) on the road. 
 
 ### 🏢 Alumnus Of
-Friends Reunited (no GitHub, sorry!), [Brightsolid](https://github.com/brightsolid), [NCC Group](https://github.com/nccgroup), [Croud](https://github.com/croudtech), [LineTen](https://github.com/lineten)
+Friends Reunited (yes, that Friends Reunited), [Brightsolid](https://github.com/brightsolid), [NCC Group](https://github.com/nccgroup), [Croud](https://github.com/croudtech), [LineTen](https://github.com/lineten)
 
 ### 📫 Let's Connect
-- **Ask me about:** C# architecture, integrating AI into existing platforms, home lab setups, or the golden era of dial-up.
+- **Ask me about:** C# architecture, integrating AI into existing platforms, home lab setups, the golden era of dial-up, or what it was like working on Friends Reunited before Facebook existed.
 - **Reach me:** [@tobymcreid](https://x.com/tobymcreid) or via [LinkedIn](https://www.linkedin.com/in/tobymcreid/) - don't let your dreams be dreams! DO-IT 🦾
 
 ### Public Key
